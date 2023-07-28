@@ -1,4 +1,5 @@
-# book-DB
+# Book-DB
 Simple book database  
-Executable: dist > book.exe
-Script: book.py
+Executable: dist > book.exe  
+Script: book.py  
+(python tkinter used)
